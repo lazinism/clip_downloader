@@ -3,15 +3,21 @@
 
 TwitchANZ([#](https://www.twitchanz.com/clips))의 클립 검색 기능의 Export를 이용합니다.
 
+다운로드 받으러 가기 : [#](https://github.com/lazinism/clip_downloader/releases/tag/1.0.0)
+
 ## 기능 이용하기
 #### 1. [TwitchANZ](https://www.twitchanz.com/clips)에 접속, 로그인
+
 #### 2. 본인이 다운받고 싶은 스트리머 이름, 필요에 따라 기간 / 카테고리 / 제작자 등 설정
 ![1](https://github.com/lazinism/clip_downloader/blob/main/misc/1.png)
+
 #### 3. Export type: JSON 또는 TXT로 설정
 ![2](https://github.com/lazinism/clip_downloader/blob/main/misc/2.png)
+
 #### 4. **EXPORT DATA** 클릭하여 다운로드
 ![3](https://github.com/lazinism/clip_downloader/blob/main/misc/3.png)
 #### 5. 본 프로그램과 다운받은 데이터 파일을 동일 폴더에 두고 프로그램 실행
+
 #### 6. 파일 이름을 확장자와 함께 입력 후 엔터
 ![4](https://github.com/lazinism/clip_downloader/blob/main/misc/4.png)
 
