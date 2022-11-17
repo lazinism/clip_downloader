@@ -10,8 +10,8 @@ if __name__ == "__main__":
         clip_link = list(map(lambda x:[x['url'],x['title'],x['created_at'],x['gamename']], data))
         for item in clip_link:
             time = item[2].split("T")[0]
-            title = item[1].replace("%", "")
-            game = item[3].replace("%","")
+            title = item[1].replace("%", "").replace("/","_").replace("\\","").replace("?","").replace("*", "").replace("<","").replace(">","").replace("|","").replace(":","-")
+            game = item[3].replace("%", "").replace("/","_").replace("\\","").replace("?","").replace("*", "").replace("<","").replace(">","").replace("|","").replace(":","-")
             ydl_opts = {
                 'outtmpl': f'({time} {game}) {title}.mp4',
                 'format': 'bestvideo/best'
