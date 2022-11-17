@@ -3,7 +3,7 @@
 
 TwitchANZ([#](https://www.twitchanz.com/clips))의 클립 검색 기능의 Export를 이용합니다.
 
-다운로드 받으러 가기 : [#](https://github.com/lazinism/clip_downloader/releases/tag/1.0.0)
+다운로드 받으러 가기 : [#](https://github.com/lazinism/clip_downloader/releases/tag/1.0.2)
 
 ## 기능 이용하기
 #### 1. [TwitchANZ](https://www.twitchanz.com/clips)에 접속, 로그인
