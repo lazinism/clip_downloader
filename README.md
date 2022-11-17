@@ -11,7 +11,7 @@ TwitchANZ([#](https://www.twitchanz.com/clips))의 클립 검색 기능의 Expor
 #### 2. 본인이 다운받고 싶은 스트리머 이름, 필요에 따라 기간 / 카테고리 / 제작자 등 설정
 ![1](https://github.com/lazinism/clip_downloader/blob/main/misc/1.png)
 
-#### 3. Export type: JSON 또는 TXT로 설정
+#### 3. Export type: JSON 또는 TXT로 설정 (JSON 추천)
 ![2](https://github.com/lazinism/clip_downloader/blob/main/misc/2.png)
 
 #### 4. **EXPORT DATA** 클릭하여 다운로드
