@@ -28,7 +28,7 @@ if __name__ == "__main__":
                 except:
                     err += 1
                 else:
-                    err = 0    
+                    break  
     elif file_extend == 'txt':
         with open(file_path, 'r', encoding='UTF-8') as file:
             data = file.read()
